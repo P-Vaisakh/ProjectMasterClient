@@ -1,0 +1,1 @@
+export const base = "https://projectmaster-2gdr.onrender.com";
